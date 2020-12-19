@@ -23,7 +23,7 @@ Pathology</a></li>
 A Study on the Performance of Stain-Translation for Segmenting Arbitrarily Dyed Histological Images</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Pathology-ML-Papers/blob/master/pat(10).pdf" style="text-decoration:none;">Model-based renement of nonlinear
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pathology-ML-Papers/blob/master/pat(10).pdf" style="text-decoration:none;">Model-based refinement of nonlinear
 registrations in 3D histology reconstructionAlpaca: Extensible Authorization for Distributed Services </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Pathology-ML-Papers/blob/master/pat(11).pdf" style="text-decoration:none;">A Deep Model with Shape-preserving Loss for Gland Instance Segmentation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Pathology-ML-Papers/blob/master/pat(12).pdf" style="text-decoration:none;">Predicting Cancer with a Recurrent Visual Attention Model for Histopathology Images</a></li>
